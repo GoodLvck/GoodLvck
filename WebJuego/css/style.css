@@ -2,18 +2,18 @@
 @import url("https://fonts.googleapis.com/css?family=Aclonica|Poppins:300,400,500,600&display=swap");
 /* line 2, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_extends.scss */
 .btn_1, .live_stareams .live_stareams_slide .live_stareams_slide_img:after, .Latest_War .Latest_War_text:after, .gallery_part .single_gallery_item .single_gallery_item_iner:after, .footer_part .single_footer_part .mail_part .email_icon {
-  background-image: -webkit-gradient(linear, right top, left top, from(#ff0000), color-stop(51%, #c6019a), to(#ff0000));
-  background-image: -webkit-linear-gradient(right, #ff0000 0%, #c6019a 51%, #ff0000 100%);
-  background-image: -o-linear-gradient(right, #ff0000 0%, #c6019a 51%, #ff0000 100%);
-  background-image: linear-gradient(to left, #ff0000 0%, #c6019a 51%, #ff0000 100%);
+  background-image: -webkit-gradient(linear, right top, left top, from(#6600FF), color-stop(51%, #c6019a), to(#6600FF));
+  background-image: -webkit-linear-gradient(right, #6600FF 0%, #c6019a 51%, #6600FF 100%);
+  background-image: -o-linear-gradient(right, #6600FF 0%, #c6019a 51%, #6600FF 100%);
+  background-image: linear-gradient(to left, #6600FF 0%, #c6019a 51%, #6600FF 100%);
 }
 
 /* line 8, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_extends.scss */
 .main_menu .main-menu-item .nav-item a:before {
-  background-image: -webkit-gradient(linear, right top, left top, from(#c6019a), to(#ff0000));
-  background-image: -webkit-linear-gradient(right, #c6019a 0%, #ff0000 100%);
-  background-image: -o-linear-gradient(right, #c6019a 0%, #ff0000 100%);
-  background-image: linear-gradient(to left, #c6019a 0%, #ff0000 100%);
+  background-image: -webkit-gradient(linear, right top, left top, from(#c6019a), to(#6600FF));
+  background-image: -webkit-linear-gradient(right, #c6019a 0%, #6600FF 100%);
+  background-image: -o-linear-gradient(right, #c6019a 0%, #6600FF 100%);
+  background-image: linear-gradient(to left, #c6019a 0%, #6600FF 100%);
 }
 
 /* line 14, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_extends.scss */
